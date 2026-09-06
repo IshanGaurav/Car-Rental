@@ -107,7 +107,6 @@ cd client
 npm run dev
 ```
 
-Visit the URL Vite prints (typically [http://localhost:5173](http://localhost:5173)).
 
 ## Project Structure
 
